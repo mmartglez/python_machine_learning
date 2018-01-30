@@ -11,9 +11,9 @@ docker-compose up
 ```
 3. Ir a `192.168.99.100:9000` en el navegar para empezar a utilizar los notebooks de jupyter.
 
-### Contents
+### Contenido
 
-#### Analisis previo de datos
+#### Analisis de datos
 0. Analisis Exploratorio de datos (https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
 
 #### Regression lineales
