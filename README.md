@@ -33,7 +33,8 @@ docker-compose up
 8. SVM (https://www.kaggle.com/emptycasket/regression-with-svm-python)
 
 #### Ensamblado de modelos
-9. Pipeline + Ensamblado  https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard
+9. Cross validation: Gradient Bossting vs RandomForest
+10. Pipeline + Ensamblado  https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard
 
 
 ### Notes
