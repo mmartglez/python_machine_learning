@@ -15,6 +15,7 @@ docker-compose up
 
 #### Analisis de datos
 0. Analisis Exploratorio de datos (https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
+0. [Analisis Exploratorio de datos](http://192.168.99.100:9000/notebooks/0.%20Analisis%20Exploratorio%20de%20datos.ipynb "")
 
 #### Regression lineales
 1. Introduction to regression. (https://www.kaggle.com/rbyron/simple-linear-regression-models)
