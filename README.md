@@ -16,8 +16,9 @@ docker-compose up
 
 
 #### Analisis de datos
-A. [Analisis Exploratorio de datos](https://github.com/mmartglez/python_machine_learning/blob/master/0A.%20Analisis%20Exploratorio%20de%20datos.ipynb"")
-B. [Limpieza de datos y preparación df](https://github.com/mmartglez/python_machine_learning/blob/master/0B.%20Limpieza%20de%20datos%20y%20preparacion%20df.ipynb") 
+A. [Analisis Exploratorio de datos](https://github.com/mmartglez/python_machine_learning/blob/master/0A.%20Analisis%20Exploratorio%20de%20datos.ipynb)
+
+B. [Limpieza de datos y preparación df](https://github.com/mmartglez/python_machine_learning/blob/master/0B.%20Limpieza%20de%20datos%20y%20preparacion%20df.ipynb) 
 
 #### Regression lineales
 1. [Introduction to regression.](https://github.com/mmartglez/python_machine_learning/blob/master/1.%20Introduccion%20a%20la%20regression.ipynb)
