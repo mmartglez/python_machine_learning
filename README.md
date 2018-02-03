@@ -18,19 +18,19 @@ docker-compose up
 #### Analisis de datos
 A. [Analisis Exploratorio de datos](https://github.com/mmartglez/python_machine_learning/blob/master/0A.%20Analisis%20Exploratorio%20de%20datos.ipynb)
 
-B. [Limpieza de datos y preparación df](https://github.com/mmartglez/python_machine_learning/blob/master/0B.%20Limpieza%20de%20datos%20y%20preparacion%20df.ipynb) 
+B. [Limpieza de datos y preparación DataFrame](https://github.com/mmartglez/python_machine_learning/blob/master/0B.%20Limpieza%20de%20datos%20y%20preparacion%20df.ipynb) 
 
 #### Regression lineales
-1. [Introduction to regression.](https://github.com/mmartglez/python_machine_learning/blob/master/1.%20Introduccion%20a%20la%20regression.ipynb)
-2. [Ridge](https://github.com/mmartglez/python_machine_learning/blob/master/2.%20Ridge%20regression.ipynb)
+1. [Introduccion a la regression.](https://github.com/mmartglez/python_machine_learning/blob/master/1.%20Introduccion%20a%20la%20regression.ipynb)
+2. [Ridge regression](https://github.com/mmartglez/python_machine_learning/blob/master/2.%20Ridge%20regression.ipynb)
 
 #### Arboles de decision
-3. [Decision tree sin NA imputation](https://github.com/mmartglez/python_machine_learning/blob/master/3.%20Decision%20tree%20sin%20NA%20imputation.ipynb)
+3. [Decision Tree sin NA imputation](https://github.com/mmartglez/python_machine_learning/blob/master/3.%20Decision%20tree%20sin%20NA%20imputation.ipynb)
 4. [Random Forest con NA imputation](https://github.com/mmartglez/python_machine_learning/blob/master/4.%20Random%20Forest%20con%20NA%20imputation.ipynb)
 5. [XGBoost](https://github.com/mmartglez/python_machine_learning/blob/master/5.%20XGBoost.ipynb)
 
 #### Clustering
-6. [Componentes Pricipales y K-Means](https://github.com/mmartglez/python_machine_learning/blob/master/6.%20Componentes%20Principales%20y%20K-Means.ipynb)
+6. [Componentes Pricipales PCA y K-Means](https://github.com/mmartglez/python_machine_learning/blob/master/6.%20Componentes%20Principales%20y%20K-Means.ipynb)
 7. K-Vecinos
 
 #### SVM
