@@ -14,10 +14,11 @@ docker-compose up
 
 ## Objetivo
 
-El objetivo de este repositorio es analizar un supuesto de predicción desde varias perspectivas. 
-- Partiendo de un dataset con las características y precio de activos (viviendas), vamos a entontrar un modelo que nos sirva para predecir el precio de otro activo. Ejemplo: tenemos una cartera con varios activos adjudicados y queremos saber su valor de mercado y poder así posicionarlos por ejemplo, en una franja media-baja que nos permita venderlos rápido. 
-- Utilizaremos Python métodos supervisados de regresión lineal, arboles de decisión, etc y no supervisados de clusterización. 
-- Se describe en cada módulo procedimiento y comparación de modelos.
+El objetivo de este repositorio es hacer una demostración práctica de como usar varias técnicas de predicción: 
+- Partiendo de un dataset con variables descriptivas de las características de varios activos (viviendas), vamos a obtener modelos que sirvan para predecir el precio (target-objetivo) de otros activos. 
+	¿Para qué puede ser útil? imaginemos que tenemos una cartera con varios activos adjudicados, querremos saber su valor de mercado para poder saber donte tendremos que posicionarlos. Por ejemplo, saber cual es la franja media-baja que nos permita venderlos rápido.
+- Utilizaremos Python: métodos supervisados de regresión lineal, arboles de decisión, etc y no supervisados de clusterización. 
+- Se describe en cada módulo procedimiento, ajustes y comparación de modelos.
 
 ## Contenido
 
